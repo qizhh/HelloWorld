@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hello" />
+        <module name="HelloWorldTest" />
+        <module name="LoginRegistModule" />
+        <module name="ViewModule" />
+        <module name="WebTest1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hello" target="1.5" />
+      <module name="HelloWorldTest" target="1.7" />
+      <module name="LoginModule" target="1.7" />
+      <module name="LoginRegistModule" target="1.5" />
+      <module name="ViewManage" target="1.7" />
+      <module name="ViewModule" target="1.7" />
+      <module name="WebTest1" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
