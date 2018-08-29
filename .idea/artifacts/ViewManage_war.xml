@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ViewManage:war">
+    <output-path>$PROJECT_DIR$/ViewManage/target</output-path>
+    <root id="archive" name="ViewManage.war">
+      <element id="artifact" artifact-name="ViewManage:war exploded" />
+    </root>
+  </artifact>
+</component>

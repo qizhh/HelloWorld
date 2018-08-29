@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="webtest:war exploded">
+    <output-path>$PROJECT_DIR$/webtest/target/webtest</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="LoginModule" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/LoginModule/target/webtest/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="LoginModule/web/Web" />
+    </root>
+  </artifact>
+</component>
