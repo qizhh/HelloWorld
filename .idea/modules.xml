@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KnowledgeLearning.iml" filepath="$PROJECT_DIR$/KnowledgeLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoginRegistModule/LoginRegistModule.iml" filepath="$PROJECT_DIR$/LoginRegistModule/LoginRegistModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestNotMavenProject/TestNotMavenProject.iml" filepath="$PROJECT_DIR$/TestNotMavenProject/TestNotMavenProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/ViewModule/ViewModule.iml" filepath="$PROJECT_DIR$/ViewModule/ViewModule.iml" />
     </modules>
   </component>
