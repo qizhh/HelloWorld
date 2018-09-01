@@ -8,19 +8,18 @@
         <outputRelativeToContentRoot value="true" />
         <module name="hello" />
         <module name="HelloWorldTest" />
-        <module name="LoginRegistModule" />
-        <module name="ViewModule" />
+        <module name="loginregist" />
+        <module name="testmavenproject" />
+        <module name="viewmodule" />
         <module name="WebTest1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="hello" target="1.5" />
-      <module name="HelloWorldTest" target="1.7" />
-      <module name="LoginModule" target="1.7" />
+      <module name="loginregist" target="1.5" />
       <module name="LoginRegistModule" target="1.5" />
-      <module name="ViewManage" target="1.7" />
+      <module name="testmavenproject" target="1.7" />
+      <module name="viewmodule" target="1.7" />
       <module name="ViewModule" target="1.7" />
-      <module name="WebTest1" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

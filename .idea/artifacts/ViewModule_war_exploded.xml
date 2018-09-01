@@ -1,10 +1,10 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="ViewModule:war exploded">
+  <artifact type="exploded-war" name="viewmodule:war exploded">
     <output-path>$PROJECT_DIR$/ViewModule/target/viewmodule</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="ViewModule" />
+          <element id="module-output" name="viewmodule" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.3.RELEASE" />
@@ -21,6 +21,7 @@
           <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.9" />
           <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.4.2" />
           <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:1.3.1" />
+          <element id="library" level="project" name="Maven: org.mybatis.generator:mybatis-generator-core:1.3.5" />
           <element id="library" level="project" name="Maven: c3p0:c3p0:0.9.1.2" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.41" />
           <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
@@ -29,7 +30,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/ViewModule/target/viewmodule/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="ViewModule/web/Web" />
+      <element id="javaee-facet-resources" facet="viewmodule/web/Web" />
     </root>
   </artifact>
 </component>
