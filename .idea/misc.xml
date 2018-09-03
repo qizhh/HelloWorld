@@ -12,10 +12,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/webtest/pom.xml" />
-        <option value="$PROJECT_DIR$/LoginRegistModule/pom.xml" />
         <option value="$PROJECT_DIR$/testmavenproject/pom.xml" />
-        <option value="$PROJECT_DIR$/ViewModule/pom.xml" />
-        <option value="$PROJECT_DIR$/SpringMVCTestModule/pom.xml" />
       </list>
     </option>
   </component>

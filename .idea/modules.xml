@@ -3,10 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KnowledgeLearning.iml" filepath="$PROJECT_DIR$/KnowledgeLearning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SpringMVCTest/testmavenproject.iml" filepath="$PROJECT_DIR$/SpringMVCTest/testmavenproject.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestNotMavenProject/TestNotMavenProject.iml" filepath="$PROJECT_DIR$/TestNotMavenProject/TestNotMavenProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewModule/ViewModule.iml" filepath="$PROJECT_DIR$/ViewModule/ViewModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoginRegistModule/loginregist.iml" filepath="$PROJECT_DIR$/LoginRegistModule/loginregist.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ViewModule/viewmodule.iml" filepath="$PROJECT_DIR$/ViewModule/viewmodule.iml" />
+      <module fileurl="file://C:\Users\fys\IdeaProjects\HelloWorld\SpringMVCTest\testmavenproject.iml" filepath="C:\Users\fys\IdeaProjects\HelloWorld\SpringMVCTest\testmavenproject.iml" />
     </modules>
   </component>
 </project>

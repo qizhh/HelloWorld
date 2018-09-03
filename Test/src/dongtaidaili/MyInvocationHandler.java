@@ -29,7 +29,8 @@ public class MyInvocationHandler implements InvocationHandler
             Object result = method.invoke(target, args);
             System.out.println("++++++after " + method.getName() + "++++++");
             return result;
-        }else{
+        }
+        else{
             Object result = method.invoke(target, args);
             return result;
         }

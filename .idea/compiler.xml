@@ -8,8 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="hello" />
         <module name="HelloWorldTest" />
-        <module name="loginregist" />
-        <module name="SpringMVCTestModule" />
         <module name="testmavenproject" />
         <module name="viewmodule" />
         <module name="WebTest1" />
