@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="testmavenproject:war exploded">
+  <artifact type="exploded-war" name="SpringMVCTest:war exploded">
     <output-path>$PROJECT_DIR$/SpringMVCTest/target/SpringMVCTest</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">

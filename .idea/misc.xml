@@ -4,6 +4,7 @@
     <file type="web" url="file://$PROJECT_DIR$/HelloWorldTest" />
     <file type="web" url="file://$PROJECT_DIR$/LoginModule" />
     <file type="web" url="file://$PROJECT_DIR$/SpringMVCTest" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringMVCTestModule" />
     <file type="web" url="file://$PROJECT_DIR$/ViewManage" />
     <file type="web" url="file://$PROJECT_DIR$/ViewModule" />
   </component>
@@ -11,9 +12,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/webtest/pom.xml" />
-        <option value="$PROJECT_DIR$/ViewModule/pom.xml" />
         <option value="$PROJECT_DIR$/LoginRegistModule/pom.xml" />
         <option value="$PROJECT_DIR$/testmavenproject/pom.xml" />
+        <option value="$PROJECT_DIR$/ViewModule/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVCTestModule/pom.xml" />
       </list>
     </option>
   </component>

@@ -9,6 +9,7 @@
         <module name="hello" />
         <module name="HelloWorldTest" />
         <module name="loginregist" />
+        <module name="SpringMVCTestModule" />
         <module name="testmavenproject" />
         <module name="viewmodule" />
         <module name="WebTest1" />
@@ -17,6 +18,8 @@
     <bytecodeTargetLevel>
       <module name="loginregist" target="1.5" />
       <module name="LoginRegistModule" target="1.5" />
+      <module name="SpringMVCTest" target="1.7" />
+      <module name="SpringMVCTestModule" target="1.7" />
       <module name="testmavenproject" target="1.7" />
       <module name="viewmodule" target="1.7" />
       <module name="ViewModule" target="1.7" />
