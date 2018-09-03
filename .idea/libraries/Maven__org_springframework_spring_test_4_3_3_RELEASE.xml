@@ -1,6 +1,7 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework:spring-test:4.3.3.RELEASE">
     <CLASSES>
+<<<<<<< HEAD
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.3.RELEASE/spring-test-4.3.3.RELEASE.jar!/" />
     </CLASSES>
     <JAVADOC>
@@ -8,6 +9,15 @@
     </JAVADOC>
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.3.RELEASE/spring-test-4.3.3.RELEASE-sources.jar!/" />
+=======
+      <root url="jar://E:/fys/development/Library/org/springframework/spring-test/4.3.3.RELEASE/spring-test-4.3.3.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/fys/development/Library/org/springframework/spring-test/4.3.3.RELEASE/spring-test-4.3.3.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/fys/development/Library/org/springframework/spring-test/4.3.3.RELEASE/spring-test-4.3.3.RELEASE-sources.jar!/" />
+>>>>>>> 9a8a6b1209e1f3fc58f9a17950499a6d393cb9f9
     </SOURCES>
   </library>
 </component>
